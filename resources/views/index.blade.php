@@ -79,13 +79,13 @@
         </nav>
 
         <div class="jumbotron">
-            <img src="image/jonathan.png" class="img-responsive scrollpoint sp-effect3" alt="" />
+            <img src="image/foto.png" class="img-responsive scrollpoint sp-effect3" alt="" />
             <div class="social-wrapper">
                 <ul class="brands brands-inline hidden-xs scrollpoint sp-effect1">
                     <li><a href="#"><i class="fa fa-facebook  hi-icon-effect-8"></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 </ul>
-                <h2 class="scrollpoint sp-effect3">John Doe</h2>
+                <h2 class="scrollpoint sp-effect3">Ligorio Salgado</h2>
                 <ul class="brands brands-inline hidden-xs scrollpoint sp-effect2">
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                     <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
@@ -95,11 +95,11 @@
             <div id="slideshow" class="carousel slide vertical scrollpoint sp-effect3" data-ride="carousel">
                 <div class="carousel-inner">
                     <!-- Slideshow item 1 active -->
-                    <div class="item active"><h3>I <i class="fa fa-heart icon-first"></i> webdesign</h3></div>
+                    <div class="item active"><h3>Smart <i class="fa fa-lightbulb-o"></i> Programming</h3></div>
                     <!-- Slideshow item 2 -->
                     <div class="item"><h3>Creative coder <i class="fa fa-code icon"></i></h3></div>
                     <!-- Slideshow item 3 -->
-                    <div class="item"><h3><i class="fa fa-trophy"></i> Awesome designer</h3></div>
+                    <div class="item"><h3><i class="fa fa-trophy"></i> Awesome coder</h3></div>
                 </div>
             </div>
             <!-- Slideshow end -->
